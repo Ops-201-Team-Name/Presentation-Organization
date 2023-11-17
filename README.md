@@ -57,6 +57,9 @@ The project aims to expand the success of an existing educational YouTube channe
 7. **Cloud-Based Data Storage:**
    - Select a secure and scalable cloud storage solution for video archival.
    - Develop protocols for organized file storage and retrieval.
+   - 
+## Standard Operating Procedures:
+All SOPs are located in our **[Wiki](https://github.com/Ops-201-Team-Name/Ops-201-Team-Name/wiki)**.
 
 **Conclusion:**
 This project seeks to enhance the company's operations by expanding its content portfolio, optimizing remote work processes, and providing tailored technology solutions. Through effective collaboration, diverse device support, and robust data management, the company aims to maintain its success in the dynamic landscape of online education.
@@ -68,8 +71,11 @@ This project seeks to enhance the company's operations by expanding its content 
 **[Windows 10 VM - 15GB](https://drive.proton.me/urls/A38M1XEG0W#DM7Db8zLn92P)** | 
 **[Ubuntu Desktop VM - 6GB](https://drive.proton.me/urls/JZFTEH5MSM#dlGvirbRcYnv)** |
 
-## Standard Operating Procedures:
-All SOPs are located in our **[Wiki](https://github.com/Ops-201-Team-Name/Ops-201-Team-Name/wiki)**.
+## Links:
+**[Demo Videos](https://drive.google.com/drive/folders/17LgrA9XVXOb5_ui0_QuHA5gbRXcmlEih?usp=drive_link)** | 
+**[SOP Videos](https://drive.google.com/drive/u/0/folders/1sdkFEHARfJEScrDiC8gAFCI4mOzvjnUY)** | 
+**[Project Slideshow](https://docs.google.com/presentation/d/1RYKiacz0xavtSri5vqYI2OF-Gzth0gd-NbOqcXhs_BI/edit#slide=id.g261a4aeb4ac_1_27)** | 
+**[Project Documents](https://drive.google.com/drive/u/0/folders/1kzuXICE41qlAqVyT5H4juJ1cT_pSzR5k)** |
 
 ## Brought to you by:
-Zachariah Woodbridge - 16-Nov-2023
+Zachariah Woodbridge - 17-Nov-2023
